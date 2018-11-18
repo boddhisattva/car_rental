@@ -10,3 +10,7 @@ The commission is split like this:
 - the rest goes to us
 
 Compute the amount that belongs to the insurance, to the assistance and to us.
+
+# Code related design decisions
+
+* Added a `CommissionCalculator` class in order to calculate the various commissions related to a rental
